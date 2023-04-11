@@ -9,5 +9,6 @@
     "emmet.triggerExpansionOnTab": true,
     "emmet.showSuggestionsAsSnippets": true,
     "typescript.validate.enable": true,
-    "javascript.validate.enable": true
+    "javascript.validate.enable": true,
+    "vetur.format.defaultFormatter.js": "prettier"
 }
