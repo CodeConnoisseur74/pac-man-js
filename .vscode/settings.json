@@ -1,14 +1,34 @@
 {
     "files.autoSave": "afterDelay",
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
+    "javascript.format.semicolons": "insert",
+    "workbench.colorCustomizations": {
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    },
+    "editor.fontSize": 16,
+    "editor.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.experimentalInlineEdit.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.inlayHints.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true,
+    "editor.fontWeight": "bold",
+    "editor.inlineSuggest.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "debug.console.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "debug.console.fontSize": 16,
+    "scm.inputFontFamily": "ComicShannsMono Nerd Font Mono",
+    "terminal.integrated.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.enabled": true,
+    "powermode.combo.timerEnabled": "hide",
+    "powermode.shake.enabled": false,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "emmet.useInlineCompletions": true,
-    "emmet.triggerExpansionOnTab": true,
-    "emmet.showSuggestionsAsSnippets": true,
-    "typescript.validate.enable": true,
-    "javascript.validate.enable": true,
-    "vetur.format.defaultFormatter.js": "prettier"
+    "workbench.iconTheme": "hotline-wired"
 }
